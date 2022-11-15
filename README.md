@@ -1,6 +1,6 @@
 ## Demo
 
-[Link to Example](https://omalsa04.github.io/silly-volume/)
+[Link to Example](https://sam-omalley.github.io/silly-volume/)
 
 ## To run locally
 
